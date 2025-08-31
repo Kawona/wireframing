@@ -11,3 +11,8 @@
 - Saves Time and Resources: Early detection of design flaws and usability issues saves time and resources that would be spent on revisions later in the design and development stages.
 
 - Enables Easy Modifications: Making changes to a wireframe is quicker and less costly than altering a high-fidelity design or a developed product. This flexibility encourages experimentation and iterative improvement.# wireframing
+
+## Key Elements of Wireframing
+- Layout Structure: Defines the arrangement of elements on the page.
+- Navigation: Shows how users will move through the site or application.
+- Functionality: Outlines key functionalities and interactions.
