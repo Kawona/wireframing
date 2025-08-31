@@ -20,3 +20,8 @@
 ## Types of Wireframes
 - Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
 - High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+## Wireframing Tools
+- Figma is a design tool that allow for real time collaborating and prototyping.
+- Adobe XD is a powerful design and prototyping tool that integrates well with other Adobe creative softwares.
+- Sketch is a MacOS design tool popular among UI/UX designers, with a wide range of plugins for wireframing and prototyping
