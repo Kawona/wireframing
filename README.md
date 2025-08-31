@@ -25,3 +25,8 @@
 - Figma is a design tool that allow for real time collaborating and prototyping.
 - Adobe XD is a powerful design and prototyping tool that integrates well with other Adobe creative softwares.
 - Sketch is a MacOS design tool popular among UI/UX designers, with a wide range of plugins for wireframing and prototyping
+
+## Benefits of Wireframing in Software Development
+- Clarifies Ideas and Concepts:Wireframing helps translate abstract ideas into tangible representations. It allows designers and stakeholders to visualize the layout and structure of a project early in the process.
+- Facilitates Communication: It serves as a communication tool among team members, clients, and stakeholders, ensuring everyone is on the same page regarding the design and functionality.
+- Identifies Usability Issues: By focusing on the user interface structure, wireframing helps identify potential usability issues early on. This can include navigation problems, information hierarchy issues, and interaction flaws
